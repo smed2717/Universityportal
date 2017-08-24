@@ -1,0 +1,23 @@
+/*!
+ * Start Bootstrap - Blog Post HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+a:visited, a:link{
+  text-decoration: none !important;
+}
+
+a:hover{
+  color: #f39c12;
+  text-decoration: none !important;
+}
+
+.label-as-badge {
+    border-radius: 1em;
+}
